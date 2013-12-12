@@ -1,2 +1,2 @@
-gdal_batch
+gdal batch files
 ==========
